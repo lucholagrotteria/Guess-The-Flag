@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 30rem;
+    height: 90vh;
+    margin: 0 auto;
+}
+
+img {
+    align-self: center;
+    max-width: 100%; 
+    margin: 2rem 0; 
+}
+
+.form-control {
+    width: 100%; 
+    max-width: 30rem; 
+}
+
